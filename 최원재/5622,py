@@ -1,3 +1,5 @@
+# 4시간 이상
+
 x = list(input())
 y = len(x)
 answer = 0
