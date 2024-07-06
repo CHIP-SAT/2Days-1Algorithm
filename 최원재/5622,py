@@ -1,0 +1,23 @@
+x = list(input())
+y = len(x)
+answer = 0
+
+for i in range(y):
+    if x[i] == "A" or x[i] == "B" or x[i] == "C":
+        answer += 3
+    elif x[i] == "D" or x[i] == "E" or x[i] == "F":
+        answer += 4
+    elif x[i] == "G" or x[i] == "H" or x[i] == "I":
+        answer += 5
+    elif x[i] == "J" or x[i] == "K" or x[i] == "L":
+        answer += 6
+    elif x[i] == "M" or x[i] == "N" or x[i] == "O":
+        answer += 7
+    elif x[i] == "P" or x[i] == "Q" or x[i] == "R" or x[i] == "S":
+        answer += 8
+    elif x[i] == "T" or x[i] == "U" or x[i] == "V":
+        answer += 9
+    elif x[i] == "W" or x[i] == "X" or x[i] == "Y" or x[i] == "Z":
+        answer += 10
+        
+print(answer)
