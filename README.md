@@ -14,6 +14,6 @@
 |[1회차] 07.01 <br> [문제: 10988](https://www.acmicpc.net/problem/10988) |O|O|O|O|O|
 |[2회차] 07.03 <br> [문제: 2444](https://www.acmicpc.net/problem/2444) |O|O|O|O|O|
 |[3회차] 07.05 <br> [문제: 5622](https://www.acmicpc.net/problem/5622) |O|O||O|O|
-|[4회차] 07.08 <br> [문제: 5622](https://www.acmicpc.net/problem/2798) ||||||
+|[4회차] 07.08 <br> [문제: 2798](https://www.acmicpc.net/problem/2798) ||||||
 |[5회차] 07.10||||||
 |[6회차] 07.12||||||
