@@ -23,7 +23,7 @@ short sum(short y, short x, short place[50][50])
 
 int main()
 {
-    short col = 0, row = 0, a = 0, b = 0, color = 0;
+    short col = 0, row = 0, color = 0;
     short min_error = 32, board[50][50] = {{0, }, };
     scanf("%hd %hd\n", &col, &row);
     for (short i = 0; i < col; i++)
