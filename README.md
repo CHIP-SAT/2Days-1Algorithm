@@ -14,9 +14,9 @@
 |[1회차] 07.01 <br> [문제: 10988](https://www.acmicpc.net/problem/10988) |O|O|O|O|O|
 |[2회차] 07.03 <br> [문제: 2444](https://www.acmicpc.net/problem/2444) |O|O|O|O|O|
 |[3회차] 07.05 <br> [문제: 5622](https://www.acmicpc.net/problem/5622) |O|O|O|O|O|
-|[4회차] 07.08 <br> [문제: 2798](https://www.acmicpc.net/problem/2798) |O|O|O|-|-|
+|[4회차] 07.08 <br> [문제: 2798](https://www.acmicpc.net/problem/2798) |O|O|O|-|O|
 |[5회차] 07.10 <br> [문제: 1316](https://www.acmicpc.net/problem/1316) |O|O|O|-|O|
-|[6회차] 07.12 <br> [문제: 1018](https://www.acmicpc.net/problem/1018) ||O|O|||
+|[6회차] 07.12 <br> [문제: 1018](https://www.acmicpc.net/problem/1018) ||O|O||O|
 |[7회차] 07.15 <br> [문제: 2566](https://www.acmicpc.net/problem/2566) ||||||
 |[8회차] 07.17 ||||||
 |[9회차] 07.19 ||||||
