@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-#define LIMIT 1000
+#define LIMIT 1000000
 
 int main() {
     int N, cmd, num, roof = 0, stack[LIMIT] = {0, };
