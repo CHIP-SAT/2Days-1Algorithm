@@ -20,6 +20,6 @@
 |[7회차] 07.15 <br> [문제: 2566](https://www.acmicpc.net/problem/2566) |O|O|O||O|
 |[8회차] 07.17 <br> [문제: 7785](https://www.acmicpc.net/problem/7785) |-|O|O||O|
 |[9회차] 07.19 <br> [문제: 2869](https://www.acmicpc.net/problem/2869) |O|O|O||O|
-|[10회차] 07.22 <br> [문제: 28278](https://www.acmicpc.net/problem/28278) ||O||||
-|[11회차] 07.24 ||||||
+|[10회차] 07.22 <br> [문제: 28278](https://www.acmicpc.net/problem/28278) ||O|O|||
+|[11회차] 07.24 <br> [문제: 18258](https://www.acmicpc.net/problem/18258) ||||||
 |[12회차] 07.26 ||||||
