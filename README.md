@@ -21,5 +21,8 @@
 |[8회차] 07.17 <br> [문제: 7785](https://www.acmicpc.net/problem/7785) |-|O|O||O|
 |[9회차] 07.19 <br> [문제: 2869](https://www.acmicpc.net/problem/2869) |O|O|O||O|
 |[10회차] 07.22 <br> [문제: 28278](https://www.acmicpc.net/problem/28278) ||O|O|||
-|[11회차] 07.24 <br> [문제: 18258](https://www.acmicpc.net/problem/18258) ||||||
-|[12회차] 07.26 ||||||
+|[11회차] 07.24 <br> [문제: 18258](https://www.acmicpc.net/problem/18258) ||O|O|||
+|[12회차] 07.26 <br> [문제: 2164](https://www.acmicpc.net/problem/2164) ||||||
+|[13회차] 07.29 ||||||
+|[14회차] 07.31 ||||||
+|[15회차] 08.02 ||||||
