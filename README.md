@@ -23,6 +23,6 @@
 |[10회차] 07.22 <br> [문제: 28278](https://www.acmicpc.net/problem/28278) |-|O|O|||
 |[11회차] 07.24 <br> [문제: 18258](https://www.acmicpc.net/problem/18258) |-|O|O|||
 |[12회차] 07.26 <br> [문제: 2164](https://www.acmicpc.net/problem/2164) |O|O|O|||
-|[13회차] 07.29 <br> [문제: 10815](https://www.acmicpc.net/problem/10815) ||||||
-|[14회차] 07.31 ||||||
+|[13회차] 07.29 <br> [문제: 10815](https://www.acmicpc.net/problem/10815) ||O||||
+|[14회차] 07.31 <br> [문제: 12789](https://www.acmicpc.net/problem/12789) ||||||
 |[15회차] 08.02 ||||||
