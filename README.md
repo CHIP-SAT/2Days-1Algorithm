@@ -1,9 +1,9 @@
 # 2Days-1Algorithm
-[24년 여름방학] 2일 1백준
+[24년 여름방학] 2일 1알고리즘
 
 - 월, 수, 금 문제 출제
 - 매일 공부하는 습관 키우기
-- 알고리즘 왕기초
+- 알고리즘 기초
 - 깃허브 사용 익히기
 
 
@@ -24,8 +24,8 @@
 |[11회차] 07.24 <br> [문제: 18258](https://www.acmicpc.net/problem/18258) |-|O|O|||
 |[12회차] 07.26 <br> [문제: 2164](https://www.acmicpc.net/problem/2164) |O|O|O|||
 |[13회차] 07.29 <br> [문제: 10815](https://www.acmicpc.net/problem/10815) ||O|O|||
-|[14회차] 07.31 <br> [문제: 12789](https://www.acmicpc.net/problem/12789) ||O||||
-|[15회차] 08.02 <br> [문제: 25206](https://www.acmicpc.net/problem/25206) ||||||
-|[16회차] 08.05 ||||||
+|[14회차] 07.31 <br> [문제: 12789](https://www.acmicpc.net/problem/12789) ||O|O|||
+|[15회차] 08.02 <br> [문제: 25206](https://www.acmicpc.net/problem/25206) ||O|O|||
+|[16회차] 08.05 <br> [문제: 10773](https://www.acmicpc.net/problem/10773) ||||||
 |[17회차] 08.07 ||||||
 |[18회차] 08.09 ||||||
