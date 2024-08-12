@@ -14,4 +14,3 @@ for _ in range(n):
         print("NO")
     else:
         print("YES")
-        
