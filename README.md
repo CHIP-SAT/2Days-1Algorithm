@@ -6,7 +6,6 @@
 - 알고리즘 기초
 - 깃허브 사용 익히기
 
-
 ## 스터디 진행사항
 
 ||박수현|윤종주|이혜린|최원재|황대엽|
@@ -28,6 +27,6 @@
 |[15회차] 08.02 <br> [문제: 25206](https://www.acmicpc.net/problem/25206) ||O|O|||
 |[16회차] 08.05 <br> [문제: 10773](https://www.acmicpc.net/problem/10773) ||O|O|||
 |[17회차] 08.07 <br> [문제: 7785](https://www.acmicpc.net/problem/7785) ||O|O|||
-|[18회차] 08.09 <br> [문제: 9012](https://www.acmicpc.net/problem/9012) ||O||||
-|[19회차] 08.12 <br> [문제: 1269](https://www.acmicpc.net/problem/1269) ||||||
-|[20회차] 08.14 ||||||
+|[18회차] 08.09 <br> [문제: 9012](https://www.acmicpc.net/problem/9012) ||O|O|||
+|[19회차] 08.12 <br> [문제: 1269](https://www.acmicpc.net/problem/1269) ||O|O|||
+|[20회차] 08.14 <br> [문제: 20920](https://www.acmicpc.net/problem/20920) ||||||
