@@ -29,4 +29,4 @@
 |[17회차] 08.07 <br> [문제: 7785](https://www.acmicpc.net/problem/7785) ||O|O|||
 |[18회차] 08.09 <br> [문제: 9012](https://www.acmicpc.net/problem/9012) ||O|O|||
 |[19회차] 08.12 <br> [문제: 1269](https://www.acmicpc.net/problem/1269) ||O|O|||
-|[20회차] 08.14 <br> [문제: 20920](https://www.acmicpc.net/problem/20920) ||||||
+|[20회차] 08.14 <br> [문제: 20920](https://www.acmicpc.net/problem/20920) ||O||||
